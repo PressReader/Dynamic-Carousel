@@ -1,0 +1,27 @@
+{
+  "name": "jquery-dynamic-carousel",
+  "homepage": "https://github.com/PressReader/Dynamic-Carousel",
+  "description": "",
+  "main": "jquery-dynamic-carousel.js",
+  "moduleType": [
+    "amd"
+  ],
+  "keywords": [
+    "jquery",
+    "jquery-dynamic-carousel"
+  ],
+  "authors": [
+    "Mat Marquis"
+  ],
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "jquery": "^2.2.1"
+  }
+}
